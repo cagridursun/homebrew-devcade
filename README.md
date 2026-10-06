@@ -19,7 +19,7 @@ brew install devcade
 Update: `brew update && brew upgrade devcade`.
 Remove: `brew uninstall devcade`. Player settings and scores are retained.
 
-Current package: 1.0.0-rc.1. Supports macOS/Linux on Intel and ARM64.
+Current package: 1.0.0-rc.3. Supports macOS/Linux on Intel and ARM64.
 Use an interactive terminal of at least 80 x 24.
 
 [Game repository](https://github.com/cagridursun/devcade) ·
